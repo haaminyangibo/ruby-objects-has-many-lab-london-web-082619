@@ -8,5 +8,7 @@ class Post
     @@all << self 
   end 
 
-  
+  def self.all 
+    @@self
+  end 
 end 
