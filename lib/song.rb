@@ -13,6 +13,9 @@ class Song
     @@all 
   end 
   
+  def self.artist 
+
+  end
   
   
 end 
